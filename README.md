@@ -42,13 +42,13 @@ Assets/
    git clone https://github.com/Pheonix-1002/AR_Flashcards.git
 
 
-   📸 How It Works
+📸 How It Works
 
-Image Target is recognized from the Vuforia Database.
+-- Image Target is recognized from the Vuforia Database.
 
-Default Observer Event Handler triggers prefab spawn on detection.
+-- Default Observer Event Handler triggers prefab spawn on detection.
 
-When the target is lost, the prefab is hidden automatically.
+-- When the target is lost, the prefab is hidden automatically.
 
 🧩 To-Do / Improvements
 
