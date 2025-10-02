@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="apple" size="0.075000 0.112500" />
+    <ImageTarget name="car" size="0.075000 0.105931" />
+    <ImageTarget name="earth_rgb" size="0.075000 0.056250" />
+  </Tracking>
+</QCARConfig>
