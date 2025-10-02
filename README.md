@@ -39,7 +39,7 @@ Assets/
 ## ⚙️ Setup & Installation
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/Pheonix-1002/AR_Flashcards.git
+   https://github.com/Pheonix-1002/AR_Flashcards.git
 
 
 📸 How It Works
